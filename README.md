@@ -1,0 +1,1 @@
+Documentation :- https://medium.com/codingthesmartway-com-blog/how-to-use-openais-chatgpt-api-in-node-js-3f01c1f8d473
