@@ -51,3 +51,7 @@ require("dotenv").config();
     }
   }
 })();
+
+
+
+// https://chat.openai.com/share/902e81d3-a0b5-484b-838f-757a8d873520
