@@ -7,7 +7,7 @@ This is application is basically work like ChatGPT and give answer, we need to w
 ```bash
 npm init -y
 ```
-
+# Dependencies
 ```bash
 npm install dotenv 
 npm install openai
